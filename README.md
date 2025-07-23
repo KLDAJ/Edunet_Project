@@ -34,4 +34,4 @@ To get started with the **SalaryPredictor**, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Daverti/SalaryPredictor.git
+   git clone https://github.com/KLDAJ/Edunet_Project.git
