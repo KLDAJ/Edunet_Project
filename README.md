@@ -8,16 +8,6 @@
 
 The **SalaryPredictor** project aims to predict employee salaries using various machine learning algorithms. This repository contains the code, datasets, and documentation necessary to build and deploy a salary prediction model using Flask, HTML, CSS, and JavaScript.
 
-## Table of Contents
-
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Technologies Used
 
 This project employs a range of technologies, including:
@@ -29,9 +19,7 @@ This project employs a range of technologies, including:
 - **Datasets**: Various datasets to train and test the prediction model.
 
 ## Installation
-
-To get started with the **SalaryPredictor**, follow these steps:
-
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/KLDAJ/Edunet_Project.git
+
